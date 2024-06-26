@@ -1,5 +1,5 @@
 
-Check Live Demo :  https://moviedetailsdekhle.netlify.app/
+Check Live Demo :(https://moviedekhledhiren.netlify.app/)
 
 
 ![Movix_home](https://github.com/dhiren-25/Movix-React-Redux/assets/76694002/2c396e29-1099-425b-a025-9de90b2631fa)
